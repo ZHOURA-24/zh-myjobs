@@ -1,5 +1,5 @@
 # zh-myjobs
-simple jobs
+simple jobs qb-core
 
 # preview
 https://youtu.be/DhOs8J0c1TE
